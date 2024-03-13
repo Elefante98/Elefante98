@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moises
-- 👀 I’m interested looking for my first professional internship in programation area!
-- 🌱 I’m currently learning react native, for mobile development.
+- 👀 I’m looking for my first professional internship in programation area!
+- 🌱 I’m currently learning react native, for mobile development and HTML, CSS and JavaScript, for web development.
 - 📫 Reach me across my email "telesmoisesmendes@gmail.com"!
 
 <!---
